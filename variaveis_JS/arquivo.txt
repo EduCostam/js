@@ -1,0 +1,4 @@
+As variáveis armazenam valores;
+Estes valores podem ser utilizados posteriormente;
+No JavaScript é possível criar variáveis de 3 formas;
+Podemos mudar o tipo da variável livremente (tipagem fraca);
