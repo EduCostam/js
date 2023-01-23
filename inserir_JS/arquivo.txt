@@ -1,0 +1,4 @@
+Há três formas de inserir um JS em uma página;
+head: linkando um arquivo de script;
+body: escrevendo código entre as tags script;
+body: linkando um arquivo de script;
