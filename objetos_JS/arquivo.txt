@@ -1,0 +1,4 @@
+Tipos de dados: Objetos
+Funcionam como um array associativo de outras linguagens;
+Podemos criar propriedades com chave e valor;
+Aa ideia é guardar um conjunto de valores para utilizar posteriormente;
