@@ -1,5 +1,5 @@
 var arr = [
-    5, "Eduardo", true, {teste:1,teste:2}
+    10, "Eduardo", true, {teste:1,teste:2}
 ]; // obj => {}
 
 console.log(arr);
