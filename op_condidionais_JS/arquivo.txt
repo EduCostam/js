@@ -1,0 +1,4 @@
+Operadores condicionais
+São instruções que podem determinar o fluxo de uma aplicação;
+Amplamentes utilizados, deixam os softwares dinâmicos;
+Ex: if, else if, else;
