@@ -1,0 +1,4 @@
+Operadores de Comparação
+São comumente utilizados para verificação nas estruturas de condição;
+Temos os seguintes operadores: ==, !=, >, <, >=, <=
+A partir de uima expressão de comparação podemos obter um true ou false;
