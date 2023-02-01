@@ -2,3 +2,9 @@ Operadores condicionais
 São instruções que podem determinar o fluxo de uma aplicação;
 Amplamentes utilizados, deixam os softwares dinâmicos;
 Ex: if, else if, else;
+
+Condicional:else e else if
+Caso a instrução de if seja negativa, podemos adicionarelse;
+Que será a outra condicional a ser executada;
+Podemos então criar uma bifurcação no código;
+Já o else if tem a possibilidade de fazer outra verificação e adicionar mais umbloco;
