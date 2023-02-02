@@ -3,6 +3,15 @@ Nas linguagens de programação existem os operadores lógicos;
 Estes operadores realizam comparações para que  seja retornado um true ou false;
 Decidindo então o fluxo da aplicação;
 Utilizamos principalmente nas instruções de condição e repetição, em conjunto dos operadores de comparação;
+
 Operador lógico && é conhecido também como AND;
 Ele vai retornar true apenas se as duas expressões retornarem true;
 Qualquer outro resultado o operador lógico and retornará false;
+O Operador lógico || é conhecido também como OR;
+Ele retorna true caso uma das operações retorne verdadeiro;
+O OR retorna false apenas se as duas expressões	são falsas;
+
+Operador lógico !
+O Operador lógico ! é conhecido também como NOT;
+Este operador muda o valor que a expressão  retornou;
+Se recebeu  true vira false, se recebeu false  vira true;
