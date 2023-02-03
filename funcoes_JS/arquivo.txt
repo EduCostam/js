@@ -1,0 +1,4 @@
+Funções
+Funções são blocos  de códigos reutilizáveis;
+Ou seja, evitamos a repetição da lógica de  um programa em diversas partes do códig;
+A função precisa ser invocada para ser executada;
