@@ -2,3 +2,8 @@ Escopo
 No JavaScript podemos ter vários escopos;
 O global, que é iniciado em toda aplicação;
 E os locais, que podem existir em várias instruções como as funções;
+
+let e const + escopo
+Utiliando let e const podemos criar escopo até em instruções como if;
+Deixando o código mais confiável;
+Separando cada bloco em um escopo;
