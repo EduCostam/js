@@ -2,3 +2,7 @@ Tipos de dados: Objetos
 Funcionam como um array associativo de outras linguagens;
 Podemos criar propriedades com chave e valor;
 Aa ideia é guardar um conjunto de valores para utilizar posteriormente;
+
+Tudo é objeto 
+Como você pode perceber muitos tipos de dados tem métodos e propriedades;
+Podemos criar também os nossos objetos com propriedades e métodos para auxiliar nos nossos programas;
