@@ -1,0 +1,3 @@
+A instrução this
+Fora de escopos locais o this sempre se refere ao objeto global Window;
+Em objetos o this vai se referir a instância e pode acessar suas propriedades;
