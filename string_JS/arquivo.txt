@@ -3,3 +3,9 @@ Stringg é o tipo de dado para textos;
 As strings podem ser escritas com aspas simples e duplas;
 Um número entre aspas pode ser considerado uma string;
 É possível também concatenar strings com o +;
+
+Métodos de string
+O objeto String possui métodos muito úteis;
+Que vão nos auxiliar a manusear textos nos nossos softwares;
+Os métodos de string também auxiliam na sua modificação;
+Podemos por exemplo deixar a fonte em caixa alta ou baixa com JS;
