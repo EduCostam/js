@@ -1,0 +1,3 @@
+Métodos numéricos
+O objeto Number, pai dos números, contém métodos muito úteis para trabalhar com números em JS;
+A maioria dos tipos de dado também tem um objeto pai, como String, Object e Array;
