@@ -1,4 +1,10 @@
-Tiposs de dados: Arrays
+Tipos de dados: Arrays
 Os Arrays são considerados objetos em JavaScript, porém servem como listas;
 Podemos ter intes de qualquer tipo de dado também;
 Porém não por chave e valor, e sim por índice;
+
+Métodos de Array
+Os Array também possuem métodos;
+Facilitando a nossa vida para: adicionar e remover elementos, resgatar apenas uma parte do array e etc;
+Podemos também resgatar um conjunto de elementos com os métodos;
+Identificar o índice de um elemento específico e muito mais;
