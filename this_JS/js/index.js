@@ -5,4 +5,13 @@ function sayMyName() {
     console.log(this.name);
 }
 
-sayMyName();
+const user = {
+    name: "Eduardo",
+    sayMyName: function() {
+        console.log(this.name);
+    }
+}
+
+user.sayMyName();
+
+console.log(window.name);
