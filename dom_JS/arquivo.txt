@@ -11,3 +11,8 @@ através de métodos;
 Depois podemos manipulá-los da forma que quisermos;
 Acessar o DOM é semelhante as regras de CSS;
 Podemos acessar por: tags, ids, classes;
+
+Outras formas de acessar
+Com a evolução da linguagem foram criados dois seletores que acabaram com toda a complexidade desta ação;
+querySelector e querySelectorAll;
+Com estes podemos acessar os elementos baseados em regras de CSS;
