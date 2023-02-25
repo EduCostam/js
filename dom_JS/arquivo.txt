@@ -16,3 +16,7 @@ Outras formas de acessar
 Com a evolução da linguagem foram criados dois seletores que acabaram com toda a complexidade desta ação;
 querySelector e querySelectorAll;
 Com estes podemos acessar os elementos baseados em regras de CSS;
+
+Alterando o conteúdo
+Podemos alterar o texto de qualquer elemento de forma fácil com JavaScript;
+Posteriormente poderemos atrelar esta ação com algum evento;
