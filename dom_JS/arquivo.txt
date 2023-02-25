@@ -20,3 +20,8 @@ Com estes podemos acessar os elementos baseados em regras de CSS;
 Alterando o conteúdo
 Podemos alterar o texto de qualquer elemento de forma fácil com JavaScript;
 Posteriormente poderemos atrelar esta ação com algum evento;
+
+Criando elementos
+Ourtra possibilidade do JS e o DOM é criar elementos;
+O texto de um elemento é considerado um nó na árvore do DOM;
+Ou seja, temos que criar o texto do elemento também;
