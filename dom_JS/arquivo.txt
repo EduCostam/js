@@ -28,3 +28,7 @@ Ou seja, temos que criar o texto do elemento também;
 
 Removendo elementos
 Temos como remover o elemento diretamente e também um elemento filho;
+
+Adicionando elemento
+Podemos inserir um elemento dentro de outro, por exemplo um parágrafo em uma div;
+Isso é considerado como "acrescentar um filho" em JS;
