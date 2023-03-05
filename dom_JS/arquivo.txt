@@ -36,3 +36,9 @@ Isso é considerado como "acrescentar um filho" em JS;
 Trocando elementos
 Podemos também trocar um elemento no DOM;
 Ou seja, substituir uma tag por outra e de modo bem fácil;
+
+Alterando atributos
+Podemos alterar os atributos via JS e DOM;
+Por exemplo: alterar o tributo alt de uma imagem;
+Ou até um src de uma imagem;
+Todos os atributos podem ser alterados via JS!
